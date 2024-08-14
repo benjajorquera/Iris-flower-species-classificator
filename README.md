@@ -2,7 +2,7 @@
 Problema de clasificación: "Hello world" app del Machine Learning.
 Machine Learning Algorithm: K Nearest Neighbour.
 
-## Paquetes
+## Packages
 
 streamlit: https://www.streamlit.io/
 scikit-learn: https://www.streamlit.io/
